@@ -11,7 +11,7 @@ Get notified when the International Space Station (ISS) is overhead at your loca
 
 1. Clone the repository.
 2. Configure the script with your location and email credentials.
-3. Run the script: `python iss_tracker.py`.
+3. Run the script: `python main.py`.
 
 ## Requirements
 
